@@ -1,10 +1,11 @@
-streamlit==1.28.1
-pandas==2.0.3
-plotly==5.17.0
-st-supabase-connection==0.0.4
+streamlit==1.31.0
+pandas==2.1.4
+plotly==5.18.0
+supabase==1.2.0
 fpdf2==2.7.4
-Pillow==10.0.0
+Pillow==10.1.0
 python-dotenv==1.0.0
 numpy==1.24.3
 protobuf==3.20.3
 requests==2.31.0
+httpx==0.25.1
